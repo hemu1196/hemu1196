@@ -25,6 +25,9 @@ Currently exploring **Machine Learning, Agentic AI, Full-Stack Development, and 
   <a href="https://linkedin.com/in/hema-chandra-88882033b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:pinjalahemachandra469@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -175,24 +178,7 @@ A software development project focused on building a practical digital solution 
 - Deloitte — Data Analytics Job Simulation (Forage).
 - 💡 Solved 100+ problems on CodeChef and participated in competitive programming contests.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hemu1196&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemu1196&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="180"
-    alt="Most Used Programming Languages"
-  />
-</p>
-
----
+----
 
 ## 🔥 Contribution Streak
 
@@ -205,31 +191,6 @@ A software development project focused on building a practical digital solution 
 </p>
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hemu1196&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hemu1196/hemu1196/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
-
----
-
 ## 💡 Areas of Interest
 
 - Artificial Intelligence & Machine Learning
