@@ -25,7 +25,7 @@ Currently exploring **Machine Learning, Agentic AI, Full-Stack Development, and 
   <a href="https://linkedin.com/in/hema-chandra-88882033b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://hemu1196.github.io/hem-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:pinjalahemachandra469@gmail.com">
